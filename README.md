@@ -5,7 +5,7 @@ Basics
 1. Create simple endpoints using Javascript and express
 
 2. Transition from Javascript to Typescript
-3. Add DB connection, MongoDB
+3. Environment Variables, Add DB connection, MongoDB
 4. Add full Features
 
 Advance
