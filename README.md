@@ -6,9 +6,9 @@ Basics
 
 2. Transition from Javascript to Typescript
 3. Environment Variables, Add DB connection, MongoDB
-4. Add full Features
+4. Add full Features (Auth using JWT)
 
-Advance
+Advanced
 
 1. What is NodeJS and the difference from the Web browser
-2. What really is async/await in javascript
+2. What really is async/await in javascript behind the scene.
