@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "uuid": "5b230b6f-f79e-4719-a4d6-3e959c3aed26",
+      "name": "Prakhar Kumar",
+      "age": 25
+    },
+    {
+      "uuid": "72a4519a-4cf4-4268-a677-24fb8e882cee",
+      "name": "Phantom Boy",
+      "age": 23
+    },
+    {
+      "uuid": "52143a55-90b0-4561-b859-f819b081d802",
+      "name": "Aayush Mishra",
+      "age": 26
+    }
+  ]
+}

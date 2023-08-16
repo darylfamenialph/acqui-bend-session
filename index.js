@@ -7,11 +7,11 @@ app.use(express.json());
 const PORT = 3000;
 
 app.get("/", (req, res) => {
-  console.log("req: ", req);
+  // console.log("req: ", req);
   res.send("Success");
 });
 
-app.use("/", router);
+app.use("/user", router);
 
 app.listen(PORT, () => {
   console.log("Server listening at PORT: ", PORT);
